@@ -6,7 +6,7 @@ mc = minecraft.Minecraft.create()
 # Determine the Player's current position.
 x,y,z = mc.player.getTilePos()
 
-width = 5
+width = 6
 height = 3
 depth = 6
 
